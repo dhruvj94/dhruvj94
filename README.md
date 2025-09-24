@@ -83,7 +83,7 @@
 
 ### 🤝 Let’s Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/dhruv-joshi-77331377/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhruv-joshii-77331377/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dhruvj73@email.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
