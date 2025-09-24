@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner / Header -->
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | GenAI Enthusiast | Lifelong Learner</h3>
