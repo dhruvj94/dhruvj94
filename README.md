@@ -5,10 +5,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Junior Data Scientist passionate about **Data Science, Machine Learning, and Generative AI**  
+- 🎓 Aspiring Data Scientist passionate about **Data Science, Machine Learning, Generative AI, RAG, AI Agents**  
 - 🤖 Exploring **LLMs, RAG, and vector databases**  
 - ☁️ Learning **MLOps and cloud deployments (AWS, GCP, Azure)**  
-- 📈 Keen on applying ML in **financial services and real-world use cases**  
+- 📈 Keen on applying ML in **Real Estate, financial services and real-world use cases**  
 - 💡 Always experimenting, always learning  
 
 ---
